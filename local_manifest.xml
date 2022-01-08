@@ -7,5 +7,6 @@
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="matheucomth" revision="eleven" />
   <project path="kernel/motorola/msm8998" name="kernel_motorola_payton" remote="matheucomth" revision="eleven" />
   <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="eleven" />
-  
+  <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="eleven" />
+
 </manifest>
