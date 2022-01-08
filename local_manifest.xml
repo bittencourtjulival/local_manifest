@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
      <remote name="matheucomth" fetch="https://github.com/matheucomth" />
+     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
     
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="eleven" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="matheucomth" revision="eleven" />
