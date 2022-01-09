@@ -2,7 +2,6 @@
 <manifest>
      <remote name="matheucomth" fetch="https://github.com/matheucomth" />
      <remote name="LineageOS" fetch="https://github.com/LineageOS" />
-     <remote name="PixelExperience-Devices" fetch="https://github.com/PixelExperience-Devices" />
       
     <!-- Tree -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="eleven" />
