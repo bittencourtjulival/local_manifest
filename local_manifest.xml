@@ -6,7 +6,7 @@
     <!-- Tree -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="eleven" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="matheucomth" revision="eleven" />
-  <project path="kernel/motorola/msm8998" name=" kernel_motorola_payton" remote="matheucomth" revision="eleven" />
+  <project path="kernel/motorola/msm8998" name="kernel_motorola_payton" remote="matheucomth" revision="eleven" />
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="matheucomth" revision="eleven" />
   <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="eleven" />
     
