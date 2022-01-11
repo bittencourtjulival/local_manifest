@@ -11,15 +11,20 @@
      <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
       
-    <!-- Tree -->
-  <project path="device/motorola/lake" name="device_motorola_lake-1" remote="matheucomth" revision="12-test" />
+    <!-- Device Trees -->
+  <project path="device/motorola/lake" name="android_motorola_lake" remote="matheucomth" revision="12-test" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="VitorSSSouzaBR" revision="12-test" />
-  <project path="kernel/motorola/msm8998" name="cybertron" remote="matheucomth" revision="twelve" />
+     
+    <!-- Vendor Trees -->
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
-  <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="twelve" />
+     
+   <!-- Kernel Trees -->
+   <project path="kernel/motorola/msm8998" name="cybertron" remote="matheucomth" revision="twelve" />
+
      
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
+   <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="twelve" />
 
   
 </manifest>
