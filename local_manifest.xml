@@ -12,7 +12,5 @@
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="matheucomth" revision="eleven" />
   <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="eleven" />
     
-    <!-- Hals -->   
-  <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="lineage-18.1" />
   
 </manifest>
