@@ -7,7 +7,7 @@
      <remote name="a12-payton" fetch="https://github.com/a12-payton" />
       
     <!-- Tree -->
-  <project path="device/motorola/lake" name="device_motorola_lake" remote="VitorSSSouzaBR" revision="12-test" />
+  <project path="device/motorola/lake" name="device_motorola_lake-1" remote="matheucomth" revision="12-test" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="VitorSSSouzaBR" revision="12-test" />
   <project path="kernel/motorola/msm8998" name="cybertron" remote="matheucomth" revision="twelve" />
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
