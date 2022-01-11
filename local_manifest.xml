@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-     <remote name="matheucomth" fetch="https://github.com/matheucomth" />
-     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
-     <remote name="DhineshCool" fetch="https://github.com/DhineshCool" />
-     <remote name="VitorSSSouzaBR" fetch="https://github.com/VitorSSSouzaBR" />
-     <remote name="a12-payton" fetch="https://github.com/a12-payton" />
+     
+     <!-- Remote -->
+     <remote name="matheucomth" 
+             fetch="https://github.com/matheucomth" />
+     <remote name="LineageOS" 
+             fetch="https://github.com/LineageOS" />
+     <remote name="VitorSSSouzaBR" 
+             fetch="https://github.com/VitorSSSouzaBR" />
+     <remote name="a12-payton" 
+             fetch="https://github.com/a12-payton" />
       
     <!-- Tree -->
   <project path="device/motorola/lake" name="device_motorola_lake-1" remote="matheucomth" revision="12-test" />
