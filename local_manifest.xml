@@ -12,6 +12,9 @@
   <project path="kernel/motorola/msm8998" name="cybertron" remote="matheucomth" revision="twelve" />
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
   <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="twelve" />
-    
+     
+   <!-- Hals -->
+   <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
+
   
 </manifest>
