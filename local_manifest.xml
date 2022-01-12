@@ -24,6 +24,7 @@
      
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
+   <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="lineage-18.1" />
 
   
 </manifest>
