@@ -6,20 +6,18 @@
              fetch="https://github.com/matheucomth" />
      <remote name="LineageOS" 
              fetch="https://github.com/LineageOS" />
-     <remote name="VitorSSSouzaBR" 
-             fetch="https://github.com/VitorSSSouzaBR" />
      <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
       
     <!-- Device Trees -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve" />
-  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="VitorSSSouzaBR" revision="12-test" />
+  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="a12-payton" revision="twelve" />
      
     <!-- Vendor Trees -->
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="cybertron" remote="matheucomth" revision="twelve" />
+   <project path="kernel/motorola/msm8998" name="cybertron" remote="a12-payton" revision="twelve" />
 
      
    <!-- Hals -->
