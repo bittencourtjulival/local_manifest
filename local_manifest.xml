@@ -24,7 +24,6 @@
      
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
-   <project path="hardware/motorola" name="hardware_motorola" remote="matheucomth" revision="twelve" />
 
   
 </manifest>
