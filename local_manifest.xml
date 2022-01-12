@@ -12,7 +12,7 @@
              fetch="https://github.com/a12-payton" />
       
     <!-- Device Trees -->
-  <project path="device/motorola/lake" name="android_motorola_lake" remote="matheucomth" revision="12-test" />
+  <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="bliss" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="VitorSSSouzaBR" revision="12-test" />
      
     <!-- Vendor Trees -->
