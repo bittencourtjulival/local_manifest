@@ -19,7 +19,7 @@
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="cybertron" remote="a12-payton" revision="twelve" />
+   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="PixelExperience-Devices" revision="twelve" />
 
      
    <!-- Hals -->
