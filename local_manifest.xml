@@ -8,7 +8,7 @@
              fetch="https://github.com/LineageOS" />
      <remote name="PixelExperience-Devices" 
              fetch="https://github.com/PixelExperience-Devices" />
-     <remote name="PixelExperience-Devices" 
+     <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
       
     <!-- Device Trees -->
