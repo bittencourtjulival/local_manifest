@@ -28,7 +28,7 @@
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
    <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="lineage-18.1" />
-   <project path="hardware//qcom-caf/msm8998/display" name="hardware_qcom-caf_display" remote="Project-Xtended" revision="xr-msm8998" />
+   <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_display" remote="Project-Xtended" revision="xr-msm8998" />
    <project path="hardware/qcom-caf/msm8998/audio" name="hardware_qcom-caf_audio" remote="Project-Xtended" revision="xr-msm8998" />
    <project path="hardware/qcom-caf/msm8998/media" name="hardware_qcom-caf_media" remote="Project-Xtended" revision="xr-msm8998" />
 
