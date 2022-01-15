@@ -2,8 +2,8 @@
 <manifest>
      
      <!-- Remote -->
-     <remote name="VitorSSSouzaBR" 
-             fetch="https://github.com/VitorSSSouzaBR" />
+     <remote name="matheucomth" 
+             fetch="https://github.com/matheucomth" />
      <remote name="LineageOS" 
              fetch="https://github.com/LineageOS" />
      <remote name="DhineshCool" 
@@ -15,7 +15,7 @@
      
       
     <!-- Device Trees -->
-  <project path="device/motorola/lake" name="device_motorola_lake" remote="VitorSSSouzaBR" revision="12-test" />
+  <project path="device/motorola/lake" name="android_motorola_lake" remote="matheucomth" revision="12-test" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="a12-payton" revision="twelve" />
      
     <!-- Vendor Trees -->
