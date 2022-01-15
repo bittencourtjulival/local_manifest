@@ -10,13 +10,13 @@
              fetch="https://github.com/DhineshCool" />
      <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
-     <remote name="Project-Xtended" 
-             fetch="https://github.com/Project-Xtended" />
+     <remote name="PixelExperience-Devices" 
+             fetch="https://github.com/PixelExperience-Devices" />
      
       
     <!-- Device Trees -->
   <project path="device/motorola/lake" name="android_motorola_lake" remote="matheucomth" revision="12-test" />
-  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="a12-payton" revision="twelve" />
+  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="PixelExperience-Devices" revision="twelve" />
      
     <!-- Vendor Trees -->
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
