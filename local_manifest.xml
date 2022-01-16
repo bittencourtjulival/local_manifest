@@ -12,7 +12,7 @@
              fetch="https://github.com/a12-payton" />
      <remote name="PixelExperience-Devices" 
              fetch="https://github.com/PixelExperience-Devices" />
-          <remote name="PixelExperience 
+          <remote name="PixelExperience"
              fetch="https://github.com/PixelExperience" />
      
       
