@@ -12,6 +12,8 @@
              fetch="https://github.com/a12-payton" />
      <remote name="PixelExperience-Devices" 
              fetch="https://github.com/PixelExperience-Devices" />
+          <remote name="PixelExperience 
+             fetch="https://github.com/PixelExperience" />
      
       
     <!-- Device Trees -->
@@ -28,6 +30,8 @@
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
    <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="lineage-18.1" />
+   <project path="system/qcom" name="hardware_qcom-caf_msm8998_display" remote="PixelExperience" revision="twelve" />
+   <project path="hardware/motorola" name="android_hardware_motorola" remote="LineageOS" revision="lineage-18.1" />
 
   
 </manifest>
