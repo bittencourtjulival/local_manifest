@@ -14,8 +14,6 @@
              fetch="https://github.com/PixelExperience-Devices" />
      <remote name="PixelExperience"
              fetch="https://github.com/PixelExperience" />
-     <remote name="gitlab" 
-             fetch="https://gitlab.pixelexperience.org" />
      
       
     <!-- Device Trees -->
@@ -23,7 +21,7 @@
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="PixelExperience-Devices" revision="twelve" />
      
     <!-- Vendor Trees -->
-  <project path="vendor/motorola" name="vendor_motorola_lake" remote="gitlab" revision="twelve" />
+  <project path="vendor/motorola" name="vendor_motorola_lake" remote="matheucomth" revision="twelve" />
      
    <!-- Kernel Trees -->
    <project path="kernel/motorola/msm8998" name="cybertron" remote="DhineshCool" revision="twelve" />
