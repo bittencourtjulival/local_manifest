@@ -14,6 +14,8 @@
              fetch="https://github.com/PixelExperience-Devices" />
      <remote name="PixelExperience"
              fetch="https://github.com/PixelExperience" />
+          <remote name="ArrowOS"
+             fetch="https://github.com/ArrowOS" />
      
       
     <!-- Device Trees -->
@@ -29,8 +31,8 @@
      
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-18.1" />
-   <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="lineage-18.1" />
-   <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display" remote="PixelExperience" revision="twelve" />
+   <project path="system/qcom" name="android_system_qcom" remote="LineageOS" revision="ArrowOS" />
+   <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display" remote="ArrowOS" revision="arrow-12.0-caf-msm8998" />
    <project path="hardware/motorola" name="android_hardware_motorola" remote="LineageOS" revision="lineage-18.1" />
 
   
