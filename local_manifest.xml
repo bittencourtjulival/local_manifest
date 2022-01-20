@@ -17,6 +17,8 @@
           <remote name="ArrowOS"
              fetch="https://github.com/ArrowOS" />
      
+     <!-- Junk -->
+  <remove-project name="android_system_qcom" />
       
     <!-- Device Trees -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve-wip" />
