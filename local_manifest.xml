@@ -17,16 +17,13 @@
           <remote name="ArrowOS"
              fetch="https://github.com/ArrowOS" />
      
-     <!-- Junk -->
-  <remove-project name="android_system_qcom" />
-      
+
     <!-- Device Trees -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve-wip" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="PixelExperience-Devices" revision="twelve" />
      
     <!-- Vendor Trees -->
-  <project path="vendor/motorola" name="vendor_motorola_lake" remote="matheucomth" revision="twelve" />
-  <project path="vendor/motorola/sdm660-common" name="vendor_motorola_sdm660-common" remote="matheucomth" revision="twelve" />
+<project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
     
      
    <!-- Kernel Trees -->
@@ -35,8 +32,8 @@
      
    <!-- Hals -->
    <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-19.0" />
-   <project path="system/qcom " name="android_system_qcom" remote="ArrowOS" revision="arrow-12.0" />
    <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display" remote="PixelExperience" revision="twelve" />
+   <project path="system/qcom " name="android_system_qcom" remote="ArrowOS" revision="arrow-12.0" />
    <project path="hardware/motorola" name="android_hardware_motorola" remote="LineageOS" revision="lineage-19.0" />
 
   
