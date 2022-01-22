@@ -27,7 +27,7 @@
     
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="cybertron" remote="DhineshCool" revision="twelve" />
+   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="PixelExperience-Devices" revision="twelve" />
 
      
    <!-- Hals -->
