@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+
+https://github.com/jro1979oliver/device_motorola_sdm660-common
      
      <!-- Remote -->
      <remote name="matheucomth" 
              fetch="https://github.com/matheucomth" />
      <remote name="LineageOS" 
              fetch="https://github.com/LineageOS" />
-     <remote name="DhineshCool" 
-             fetch="https://github.com/DhineshCool" />
+     <remote name="jro1979oliver" 
+             fetch="https://github.com/jro1979oliver" />
      <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
      <remote name="PixelExperience-Devices" 
@@ -20,10 +23,10 @@
 
     <!-- Device Trees -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve-wip" />
-  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="PixelExperience-Devices" revision="twelve" />
+  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="jro1979oliver" revision="twelve" />
      
     <!-- Vendor Trees -->
-<project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
+  <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
     
      
    <!-- Kernel Trees -->
