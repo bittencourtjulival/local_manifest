@@ -18,6 +18,11 @@
              fetch="https://github.com/PixelExperience" />
           <remote name="ArrowOS"
              fetch="https://github.com/ArrowOS" />
+    
+    
+   <!-- Junk -->
+  <remove-project name="platform_device_qcom_sepolicy-legacy-um" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="matheucomth" revision="twelve" />
      
 
     <!-- Device Trees -->
