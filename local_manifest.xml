@@ -26,7 +26,7 @@
      
 
     <!-- Device Trees -->
-  <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve" />
+  <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve-wip" />
   <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="jro1979oliver" revision="twelve" />
      
     <!-- Vendor Trees -->
