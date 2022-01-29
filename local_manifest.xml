@@ -36,7 +36,7 @@
     
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="DhineshCool" revision="twelve" />
+   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="jro1979oliver" revision="twelve" />
 
      
    <!-- Hals -->
