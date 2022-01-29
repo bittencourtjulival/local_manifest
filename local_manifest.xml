@@ -12,7 +12,9 @@
              fetch="https://github.com/jro1979oliver" />
      <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
-     <remote name="PixelExperience-Devices" 
+     <remote name="DhineshCool" 
+             fetch="https://github.com/DhineshCool" />
+         <remote name="PixelExperience-Devices" 
              fetch="https://github.com/PixelExperience-Devices" />
      <remote name="PixelExperience"
              fetch="https://github.com/PixelExperience" />
@@ -34,7 +36,7 @@
     
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="a12-payton" revision="twelve" />
+   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="DhineshCool" revision="twelve" />
 
      
    <!-- Hals -->
