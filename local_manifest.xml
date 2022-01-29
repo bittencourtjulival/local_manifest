@@ -12,8 +12,6 @@
              fetch="https://github.com/jro1979oliver" />
      <remote name="a12-payton" 
              fetch="https://github.com/a12-payton" />
-     <remote name="DhineshCool" 
-             fetch="https://github.com/DhineshCool" />
          <remote name="PixelExperience-Devices" 
              fetch="https://github.com/PixelExperience-Devices" />
      <remote name="PixelExperience"
