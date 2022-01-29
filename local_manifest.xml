@@ -40,7 +40,7 @@
 
      
    <!-- Hals -->
-   <project path="external/bson" name="android_external_bson" remote="LineageOS" revision="lineage-19.0" />
+   <project path="external/bson" name="external_bson" remote="PixelExperience" revision="lineage-19.0" />
    <project path="system/qcom" name="android_system_qcom" remote="ArrowOS" revision="arrow-12.0" />
 
   
