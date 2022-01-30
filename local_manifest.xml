@@ -27,14 +27,14 @@
 
     <!-- Device Trees -->
   <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve-wip" />
-  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="jro1979oliver" revision="twelve" />
+  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="jro1979oliver" revision="twelve-wip" />
      
     <!-- Vendor Trees -->
   <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
     
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="jro1979oliver" revision="twelve" />
+   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="jro1979oliver" revision="twelve-wip" />
 
      
    <!-- Hals -->
