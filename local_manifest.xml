@@ -8,35 +8,24 @@
              fetch="https://github.com/matheucomth" />
      <remote name="LineageOS" 
              fetch="https://github.com/LineageOS" />
-     <remote name="jro1979oliver" 
-             fetch="https://github.com/jro1979oliver" />
-     <remote name="a12-payton" 
-             fetch="https://github.com/a12-payton" />
-         <remote name="PixelExperience-Devices" 
-             fetch="https://github.com/PixelExperience-Devices" />
-     <remote name="PixelExperience"
-             fetch="https://github.com/PixelExperience" />
-          <remote name="ArrowOS"
-             fetch="https://github.com/ArrowOS" />
-    
+     <remote name="arturo51236" 
+             fetch="https://github.com/arturo51236" />
+     <remote name="Evolution-X-Devices" 
+             fetch="https://github.com/Evolution-X-Devices" />
+
  
      
 
     <!-- Device Trees -->
-  <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="twelve-wip" />
-  <project path="device/motorola/sdm660-common" name="device_motorola_sdm660-common" remote="jro1979oliver" revision="twelve-wip" />
+  <project path="device/motorola/lake" name="device_motorola_lake" remote="matheucomth" revision="12" />
      
     <!-- Vendor Trees -->
-  <project path="vendor/motorola" name="vendor_motorola_payton" remote="a12-payton" revision="twelve" />
+  <project path="vendor/xiaomi/tulio" name="vendor_xiaomi_tulip" remote="arturo51236" revision="12" />
     
      
    <!-- Kernel Trees -->
-   <project path="kernel/motorola/msm8998" name="kernel_motorola_msm8998" remote="jro1979oliver" revision="twelve-wip" />
+  <project path="kernel/xiaomi/sdm660" name=" kernel_xiaomi_sdm660" remote="Evolution-X-Devices" revision="hmp" />
 
      
-   <!-- Hals -->
-   <project path="external/bson" name="external_bson" remote="PixelExperience" revision="twelve" />
-   <project path="system/qcom" name="android_system_qcom" remote="ArrowOS" revision="arrow-12.0" />
-
   
 </manifest>
