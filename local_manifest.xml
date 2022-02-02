@@ -12,6 +12,8 @@
              fetch="https://github.com/arturo51236" />
      <remote name="Evolution-X-Devices" 
              fetch="https://github.com/Evolution-X-Devices" />
+    <remote name="ArrowOS-Devices" 
+             fetch="https://github.com/ArrowOS-Devices" />
 
  
      
@@ -26,6 +28,10 @@
      
    <!-- Kernel Trees -->
   <project path="kernel/xiaomi/sdm660" name="kernel_xiaomi_sdm660" remote="Evolution-X-Devices" revision="hmp" />
+    
+   <!-- Hals -->
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="ArrowOS-Devices" revision="arrow-12.0" />
+    
 
      
   
