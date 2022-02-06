@@ -23,7 +23,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="PixelExperience" revision="twelve" />
     
     <!-- Device Trees -->
-  <project path="device/xiaomi/tulip" name="device_xiaomi_tulip" remote="matheucomth" revision="bliss" />
+  <project path="device/xiaomi/tulip" name="device_xiaomi_tulip" remote="matheucomth" revision="aosp" />
     <project path="device/xiaomi/extras" name="device_xiaomi_extras" remote="arturo51236" revision="snow" />
      
     <!-- Vendor Trees -->
