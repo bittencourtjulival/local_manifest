@@ -13,6 +13,7 @@
 
     <!-- removals -->
     <remove-project name="device/xiaomi/extras" />
+    <remove-project name="vendor/opstuff/remove_packages" />
     <remove-project name="packages/resources/devicesettings" />
     <remove-project name="external/ant-wireless/antradio-library" />
     <remove-project name="device/qcom/sepolicy-legacy-um" />
