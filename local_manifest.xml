@@ -10,13 +10,6 @@
              fetch="https://github.com/F2LX" />
      <remote name="LineageOS" 
              fetch="https://github.com/LineageOS" />
-
-    <!-- removals -->
-    <remove-project name="device/xiaomi/extras" />
-    <remove-project name="vendor/opstuff/remove_packages" />
-    <remove-project name="packages/resources/devicesettings" />
-    <remove-project name="external/ant-wireless/antradio-library" />
-    <remove-project name="device/qcom/sepolicy-legacy-um" />
     
     <!-- Device Trees -->
   <project path="device/xiaomi/tulip" name="tulip-ci" remote="julival25" revision="spark" />
