@@ -12,7 +12,6 @@
 <project path="device/qcom/sepolicy-legacy-um" name="julival25/android_device_qcom_sepolicy-legacy-um" remote="github" revision="x" />
 
 <!-- Bluetooth -->
-<remove-project name="packages_apps_Bluetooth" />
 <remove-project name="system_bt" />
 <project path="system/bt" name="system_bt" remote="spark" />
 <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="android_vendor_qcom_opensource_bluetooth_ext" remote="arrow" />
