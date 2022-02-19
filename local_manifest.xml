@@ -11,10 +11,6 @@
 <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-18.1" />
 <project path="device/qcom/sepolicy-legacy-um" name="julival25/android_device_qcom_sepolicy-legacy-um" remote="github" revision="x" />
 
-<!-- Bluetooth -->
-<remove-project name="android_system_bt" />
-<project path="system/bt" name="system_bt" remote="spark" />
-
 <!-- Hals -->
 <remove-project name="android_hardware_qcom_media" />
 <remove-project name="android_hardware_qcom_audio" />
