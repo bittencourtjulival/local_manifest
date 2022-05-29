@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest> 
 
 <!-- Trees --> 
-<project path="device/xiaomi/tulip" name="julival25/tulip-ci.git" remote="github" revision="spark" /> 
-<project path="vendor/xiaomi/tulip" name="julival25/spark_vendor_xiaomi_tulip.git" remote="github" revision="Spark" /> 
-<project path="kernel/xiaomi/tulip" name="F2LX/kernel_xiaomi_sdm660.git" remote="github" revision="kernel-eas" /> 
-<project path="device/xiaomi/extras" name="ArrowOS-Devices/android_device_xiaomi_extras.git" remote="github" revision="arrow-12.0" />
+
+<project path="device/xiaomi/polaris" name="julival25/android_device_xiaomi_polaris.git" remote="github" revision="spark-s" /> 
+
+<project path="device/xiaomi/sdm845-common" name="jjpprrrr/device_xiaomi_sdm845-common" remote="github" revision="twelve" />
+
+<project path="vendor/xiaomi/sdm845-common-extra" name="jjpprrrr/vendor_xiaomi_sdm845-common-extra" remote="github" revision="twelve" />
+
+<project path="vendor/xiaomi_polaris" name="julival25/android_vendor_xiaomi_polaris" remote="github" revision="twelve" />
+
+<project path="vendor/xiaomi_sdm845-common" name="julival25/android_vendor_xiaomi_sdm845-common" remote="github" revision="twelve" />
+
+<project path="kernel/xiaomi/polaris" name="PixelExperience-Devices/kernel_xiaomi_polaris" remote="github" revision="twelve" /> 
+
 <project path="external/ant-wireless/antradio-library" name="LineageOS/android_external_ant-wireless_antradio-library" remote="github" revision="lineage-19.0" />
-<remove-project name="android_packages_resources_devicesettings" />
-<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-18.1" />
-<project path="device/qcom/sepolicy-legacy-um" name="Vitorgl2003/device_qcom_sepolicy-legacy-um" remote="github" revision="sushi" />
 
 <!-- Hals -->
-<remove-project name="android_hardware_qcom_media" />
-<remove-project name="android_hardware_qcom_audio" />
-<remove-project name="android_hardware_qcom_display" />
-<project path="hardware/qcom-caf/msm8998/display" name="PixelExperience/hardware_qcom-caf_msm8998_display" remote="github" revision="twelve" />
-<project path="hardware/qcom-caf/msm8998/media" name="PixelExperience/hardware_qcom-caf_msm8998_media" remote="github" revision="twelve" />
-<project path="hardware/qcom-caf/msm8998/audio" name="PixelExperience/hardware_qcom-caf_msm8998_audio" remote="github" revision="twelve" />
 
 </manifest>
