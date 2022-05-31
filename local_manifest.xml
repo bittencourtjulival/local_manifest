@@ -4,7 +4,7 @@
 
 <!-- Trees --> 
 
-<project path="device/xiaomi/polaris" name="julival25/android_device_xiaomi_polaris.git" remote="github" revision="spark-s" /> 
+<project path="device/xiaomi/polaris" name="julival25/android_device_xiaomi_polaris.git" remote="github" revision="spark" /> 
 
 <project path="device/xiaomi/sdm845-common" name="jjpprrrr/device_xiaomi_sdm845-common" remote="github" revision="twelve" />
 
